@@ -1,5 +1,7 @@
 'use strict';
 
+Object.defineProperty(exports, '__esModule', { value: true });
+
 // import * as React from 'react';
 var SYSTEM = {
   DEBUG: true,
@@ -1492,5 +1494,6 @@ var CONSTANTS = {
     }
   }
 };
-module.exports = CONSTANTS;
+
+exports.default = CONSTANTS;
 //# sourceMappingURL=sdusd-osps4-constants-2.cjs.development.js.map

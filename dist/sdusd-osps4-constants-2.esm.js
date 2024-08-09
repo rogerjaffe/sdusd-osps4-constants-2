@@ -1490,5 +1490,6 @@ var CONSTANTS = {
     }
   }
 };
-module.exports = CONSTANTS;
+
+export default CONSTANTS;
 //# sourceMappingURL=sdusd-osps4-constants-2.esm.js.map
